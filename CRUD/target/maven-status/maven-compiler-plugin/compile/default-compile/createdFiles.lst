@@ -1,0 +1,4 @@
+model\Carta.class
+com\mycompany\crud\Principal.class
+com\mycompany\crud\Controller.class
+model\Pedido.class
